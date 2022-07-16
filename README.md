@@ -1,7 +1,7 @@
 
 <h1> Petshop - #SoyHenry </h1>
-Este proyecto es creado como proyecto final del Bootcamp de Soy Henry.
+This project was created for the final project of SoyHenry Bootcamp.
 
 ## Resumen:
-Desarrollamos un Petshop, que además, tiene incorporado un apartado para potenciar la adopción de mascotas, buscar una mascota perdida o publicar una que encontraste.
+We developed a Petshop, which also has a section incorporated to promote the adoption of pets, search for a lost pet or publish one that you found
 
