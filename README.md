@@ -1,4 +1,4 @@
-# Petshop - #SoyHenry // EndIntro
+# Petshop - #SoyHenry <!--Name-->
 This project was created for the final project of SoyHenry Bootcamp.
 
 ## Resumen:
