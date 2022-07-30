@@ -1,7 +1,7 @@
 # PetshopPF <!--Name-->
 
 This project was created for the final project of SoyHenry Bootcamp.
-We developed a Petshop, which also has a section incorporated to promote the adoption of pets, search for a lost pet or publish one that you found
+We developed a Petshop using React and Firebase, which also has a section incorporated to promote the adoption of pets, search for a lost pet or publish one that you found
 
 <img src="https://firebasestorage.googleapis.com/v0/b/portfolio-a335f.appspot.com/o/imagen_2022-07-16_002908670.png?alt=media&token=ec817f42-1659-4e89-9a20-7640722a9d29"/>
 
